@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Silka';
+    src: local('Silka Thin'), local('Silka-Thin'),
+        url('hinted-Silka-Thin.woff2') format('woff2'),
+        url('hinted-Silka-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Silka';
+    src: local('Silka Light'), local('Silka-Light'),
+        url('hinted-Silka-Light.woff2') format('woff2'),
+        url('hinted-Silka-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Silka';
+    src: local('Silka Medium'), local('Silka-Medium'),
+        url('hinted-Silka-Medium.woff2') format('woff2'),
+        url('hinted-Silka-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Silka';
+    src: local('Silka Bold'), local('Silka-Bold'),
+        url('hinted-Silka-Bold.woff2') format('woff2'),
+        url('hinted-Silka-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
