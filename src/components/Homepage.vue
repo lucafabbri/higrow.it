@@ -138,7 +138,8 @@
               <p class="uk-h4">
                 <strong>Laozi</strong>
               </p>
-              <p><a class="typeform-share uk-button uk-button-primary" href="https://lucafabbri.typeform.com/to/vYvROi" data-mode="drawer_left" data-submit-close-delay="5" target="_blank">Parlaci del tuo progetto </a> </p>
+              <p class="uk-text-small"><a href="mailto:commerciale@higrow.it">commerciale@higrow.it</a> | <a href="tel:3339774604">3339774604</a></p>
+              <!--p><a class="typeform-share uk-button uk-button-primary" href="https://lucafabbri.typeform.com/to/vYvROi" data-mode="drawer_left" data-submit-close-delay="5">Parlaci del tuo progetto </a> </p-->
           </div>
         </div>
       </div>
@@ -147,7 +148,6 @@
 </template>
 
 <script>
-(function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })();
 
 var WPAPI = require("wpapi");
 
