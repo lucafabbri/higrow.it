@@ -14,5 +14,6 @@ Vue.use(VueAnalytics, {
 
 new Vue({
   router,
+  VueAnalytics,
   render: h => h(App),
 }).$mount('#app')
