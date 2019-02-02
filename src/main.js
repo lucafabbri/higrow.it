@@ -5,7 +5,10 @@ import VueAnalytics from 'vue-analytics'
 
 Vue.use(VueAnalytics, {
   id: 'UA-51910998-52',
-  router
+  router,
+  debug: {
+    enabled: true
+  }
 })
 
 
