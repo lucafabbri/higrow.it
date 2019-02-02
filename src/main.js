@@ -5,7 +5,7 @@ import VueAnalytics from 'vue-analytics'
 
 Vue.use(VueAnalytics, {
   id: 'UA-51910998-52',
-  checkDuplicatedScript: true
+  router
 })
 
 
