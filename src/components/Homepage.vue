@@ -138,8 +138,7 @@
               <p class="uk-h4">
                 <strong>Laozi</strong>
               </p>
-              <p class="uk-text-small"><a href="mailto:commerciale@higrow.it">commerciale@higrow.it</a> | <a href="tel:3339774604">3339774604</a></p>
-              <!--p><a class="typeform-share uk-button uk-button-primary" href="https://lucafabbri.typeform.com/to/vYvROi" data-mode="drawer_left" data-submit-close-delay="5">Parlaci del tuo progetto </a> </p-->
+              <p class="uk-text-small"><a href="mailto:commerciale@higrow.it">commerciale@higrow.it</a></p>
           </div>
         </div>
       </div>
